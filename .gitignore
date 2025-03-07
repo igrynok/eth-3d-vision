@@ -5,6 +5,18 @@ __pycache__/
 
 .idea
 
+*.aux
+*.bak
+*.bbl
+*.blg
+*.brf
+*.log
+*.out
+*.fls
+*.synctex.gz
+*.fdb_latexmk
+*.pdf
+
 # C extensions
 *.so
 
